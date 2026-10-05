@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CrescentAssist | B.S. Abdur Rahman Crescent Institute of Science & Technology</title>
+  <link rel="icon" type="image/png" href="/static/crescent-logo-white.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Outfit:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body class="light-theme">
+  <div class="app-container">
+    
+    <!-- Crescent Top Announcement Strip -->
+    <div class="top-announcement">
+      <div class="announcement-content">
+        <span class="badge-accreditation">NAAC A+ ACCREDITED</span>
+        <span class="announcement-text">🎯 Admissions Open for 2026-27 | Register for <b>CIEAT 2026</b> Online Entrance Test</span>
+      </div>
+      <a href="https://crescent.education/engineering-admissions-2026/" target="_blank" class="announcement-link">Apply on crescent.education &rarr;</a>
+    </div>
+
+    <!-- Official Header with Crescent Logo & Theme -->
+    <header class="navbar">
+      <div class="brand">
+        <a href="https://crescent.education/" target="_blank" class="logo-wrapper" title="Visit crescent.education">
+          <img src="/static/crescent-logo-white.png" alt="B.S. Abdur Rahman Crescent Institute of Science and Technology Logo" class="crescent-official-logo">
+        </a>
+        <div class="brand-text">
+          <h1>B.S. Abdur Rahman Crescent</h1>
+          <span class="brand-subtext">Institute of Science & Technology &bull; Deemed to be University</span>
+          <span class="status-indicator">
+            <span class="pulse-dot"></span>
+            Campus Virtual Assistant &bull; Vandalur, Chennai
+          </span>
+        </div>
+      </div>
+
+      <div class="nav-controls">
+        <nav class="tab-nav">
+          <button class="tab-btn active" data-tab="chat-view">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+            </svg>
+            Ask Crescent AI
+          </button>
+          <button class="tab-btn" data-tab="directory-view">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+              <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+            </svg>
+            Browse FAQs
+          </button>
+        </nav>
+
+        <button id="theme-toggle" class="icon-btn" title="Toggle Theme" aria-label="Toggle Dark/Light Mode">
+          <svg id="moon-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+          <svg id="sun-icon" class="hidden" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+          </svg>
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Content Area -->
+    <main class="content-container">
+      
+      <!-- TAB 1: Chat Assistant -->
+      <section id="chat-view" class="view-panel active">
+        <!-- Quick Topic Badges -->
+        <div class="category-bar">
+          <span class="category-label">Quick Topics:</span>
+          <div class="category-scroll" id="quick-category-pills">
+            <button class="topic-chip" data-query="What is CIEAT and is it mandatory for B.Tech admission?">🎯 CIEAT 2026</button>
+            <button class="topic-chip" data-query="What is the fee structure for B.Tech and other courses at Crescent?">💰 B.Tech Fees</button>
+            <button class="topic-chip" data-query="What scholarships and fee waivers are available at Crescent?">🏆 Scholarships</button>
+            <button class="topic-chip" data-query="What are the placement statistics and top recruiting companies at Crescent?">💼 Placements (88%+)</button>
+            <button class="topic-chip" data-query="What hostel facilities and room types are available at Crescent?">🏠 KBA Hostels</button>
+            <button class="topic-chip" data-query="Is college bus transport available for day scholars at Crescent?">🚌 Bus Routes</button>
+            <button class="topic-chip" data-query="What is CIIC Crescent Innovation and Incubation Council?">🚀 CIIC Startups</button>
+            <button class="topic-chip" data-query="How do I contact Crescent Admissions Office and where is the campus located?">📞 Admissions Helpline</button>
+          </div>
+        </div>
+
+        <!-- Chat Log Window -->
+        <div class="chat-log" id="chat-messages">
+          <!-- Initial Welcome Message from Crescent Assistant -->
+          <div class="message bot-message">
+            <div class="avatar bot-avatar">
+              <img src="/static/crescent-logo-white.png" alt="Crescent" class="avatar-img">
+            </div>
+            <div class="bubble">
+              <div class="bubble-header">
+                <span class="bot-name">Crescent Virtual Helpdesk</span>
+                <span class="badge-tag">Official Assistant</span>
+                <span class="bubble-time">Just now</span>
+              </div>
+              <div class="bubble-body">
+                <p><b>Vanakkam! Welcome to B.S. Abdur Rahman Crescent Institute of Science and Technology.</b> 🎓</p>
+                <p>I am your verified 24/7 AI guide referencing official data from <a href="https://crescent.education/" target="_blank"><b>crescent.education</b></a>.</p>
+                <p>I can instantly provide details on <b>CIEAT entrance exam, B.Tech/MBA eligibility, fees & scholarships, KBA hostels, placements, and campus amenities</b>.</p>
+              </div>
+              <div class="quick-suggestions-box">
+                <div class="suggestions-title">💡 Frequently Asked by Students & Parents:</div>
+                <div class="suggestions-list" id="welcome-suggestions">
+                  <button class="suggestion-chip">How do I apply for admission at Crescent University?</button>
+                  <button class="suggestion-chip">What is CIEAT and is it mandatory for B.Tech admission?</button>
+                  <button class="suggestion-chip">What is the fee structure for B.Tech and other courses at Crescent?</button>
+                  <button class="suggestion-chip">What are the placement statistics and top recruiting companies?</button>
+                  <button class="suggestion-chip">What hostel facilities and room types are available at Crescent?</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Typing Indicator -->
+        <div class="typing-indicator-wrap hidden" id="typing-indicator">
+          <div class="avatar bot-avatar small">
+            <img src="/static/crescent-logo-white.png" alt="Crescent" class="avatar-img">
+          </div>
+          <div class="typing-bubble">
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+          </div>
+        </div>
+
+        <!-- Chat Input Bar -->
+        <div class="chat-input-bar">
+          <form id="chat-form" autocomplete="off">
+            <button type="button" id="clear-chat-btn" class="input-tool-btn" title="Clear conversation">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="3 6 5 6 21 6"></polyline>
+                <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
+              </svg>
+            </button>
+
+            <button type="button" id="voice-btn" class="input-tool-btn" title="Voice Input (Speech-to-Text)">
+              <svg id="mic-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"></path>
+                <path d="M19 10v2a7 7 0 0 1-14 0v-2"></path>
+                <line x1="12" y1="19" x2="12" y2="23"></line>
+                <line x1="8" y1="23" x2="16" y2="23"></line>
+              </svg>
+            </button>
+
+            <input 
+              type="text" 
+              id="user-input" 
+              placeholder="Ask about CIEAT, B.Tech fees, scholarships, KBA hostels, placements..." 
+              required
+            />
+
+            <button type="submit" id="send-btn" class="send-btn" title="Send message">
+              <span>Ask</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="22" y1="2" x2="11" y2="13"></line>
+                <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+              </svg>
+            </button>
+          </form>
+        </div>
+      </section>
+
+      <!-- TAB 2: Browse FAQ Knowledge Base -->
+      <section id="directory-view" class="view-panel">
+        <div class="directory-header">
+          <div class="search-box-wrap">
+            <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="11" cy="11" r="8"></circle>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+            <input type="text" id="faq-search-input" placeholder="Search Crescent knowledge base by question or keyword...">
+          </div>
+          <div class="filter-pills" id="directory-categories">
+            <button class="filter-chip active" data-cat="all">All Crescent FAQs</button>
+          </div>
+        </div>
+
+        <div class="faq-accordion-list" id="faq-accordion-list">
+          <div class="loading-spinner">Loading Crescent FAQ directory...</div>
+        </div>
+      </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="footer-details">
+        <span>📍 <b>B.S. Abdur Rahman Crescent Institute of Science and Technology</b>, GST Road, Vandalur, Chennai - 600048</span>
+        <span>📞 Admissions Hotline: <b>+91 95432 77888</b> / <b>+91 94990 01725</b> &bull; ✉️ <a href="mailto:admissions@crescent.education">admissions@crescent.education</a> &bull; 🌐 <a href="https://crescent.education/" target="_blank">crescent.education</a></span>
+      </div>
+    </footer>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

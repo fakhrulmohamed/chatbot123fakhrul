@@ -1,0 +1,371 @@
+[
+  {
+    "id": "cres-adm-001",
+    "category": "Admissions & CIEAT",
+    "question": "How do I apply for admission at Crescent University?",
+    "patterns": [
+      "how to apply for admission at crescent",
+      "what is the application process for crescent",
+      "how can I join crescent university",
+      "crescent admission form online",
+      "where to apply for crescent admissions",
+      "crescent online registration"
+    ],
+    "keywords": ["apply", "admission", "crescent", "process", "register", "form", "portal", "application"],
+    "answer": "You can apply online through the official Crescent Admissions Portal at <a href='https://crescent.education/' target='_blank'><b>crescent.education</b></a>.<br><br><b>Application Steps:</b><ol><li>Visit the admissions page at <a href='https://crescent.education/' target='_blank'>crescent.education</a> and click on <b>Apply Now</b>.</li><li>Register with your email ID and mobile number.</li><li>Fill out personal, educational, and parent details.</li><li>Upload required documents (10th/12th marksheets, photograph, signature).</li><li>Pay the application fee online through Net Banking, Credit/Debit card, or UPI.</li><li>Submit the application and book your <b>CIEAT</b> entrance test slot.</li></ol>",
+    "quick_links": [
+      {"label": "Apply Online Portal", "url": "https://crescent.education/"},
+      {"label": "Engineering Admissions", "url": "https://crescent.education/engineering-admissions-2026/"}
+    ]
+  },
+  {
+    "id": "cres-adm-002",
+    "category": "Admissions & CIEAT",
+    "question": "What is CIEAT and is it mandatory for B.Tech admission?",
+    "patterns": [
+      "what is cieat",
+      "crescent institute engineering admission test",
+      "is entrance exam mandatory for btech",
+      "cieat exam syllabus and dates",
+      "can i join btech without cieat",
+      "crescent entrance test"
+    ],
+    "keywords": ["cieat", "entrance", "exam", "test", "mandatory", "btech", "jee", "syllabus", "admission test"],
+    "answer": "<b>CIEAT (Crescent Institute Engineering Admission Test)</b> is an all-India entrance examination conducted by Crescent for admission into its B.Tech programmes.<br><br>Key Highlights:<ul><li><b>Test Mode:</b> Online Proctored examination that can be taken conveniently from home or test centres.</li><li><b>Syllabus:</b> 11th and 12th standard Physics, Chemistry, and Mathematics (PCM).</li><li><b>Exemption:</b> Candidates with a valid score in <b>JEE (Main)</b> or <b>SAT</b> are exempted from CIEAT and can directly qualify for counseling.</li><li><b>Merit List:</b> Ranks are determined based on performance in CIEAT/JEE and 12th standard PCM marks.</li></ul>",
+    "quick_links": [
+      {"label": "CIEAT Registration & Info", "url": "https://crescent.education/engineering-admissions-2026/"}
+    ]
+  },
+  {
+    "id": "cres-adm-003",
+    "category": "Admissions & CIEAT",
+    "question": "What are the eligibility criteria for B.Tech courses at Crescent?",
+    "patterns": [
+      "eligibility criteria for btech",
+      "who is eligible for btech at crescent",
+      "minimum marks for crescent engineering",
+      "qualification required for cse mechanical ece",
+      "12th marks required for crescent"
+    ],
+    "keywords": ["eligibility", "criteria", "btech", "marks", "percentage", "pcm", "qualification", "12th"],
+    "answer": "Eligibility criteria for B.Tech programmes at Crescent:<ul><li>Candidates must have passed 10+2 / Higher Secondary Exam conducted by State Board / CBSE / ICSE or equivalent.</li><li>Must have studied <b>Physics, Chemistry, and Mathematics (PCM)</b> with a minimum aggregate of <b>50% marks</b>.</li><li>Valid rank in <b>CIEAT</b> or valid score in <b>JEE (Main)</b>.</li><li>For B.Tech Biotechnology, candidates who studied Physics, Chemistry, and Biology (PCB) are also eligible.</li></ul>",
+    "quick_links": [
+      {"label": "B.Tech Programmes List", "url": "https://crescent.education/b-tech-programmes-2/"}
+    ]
+  },
+  {
+    "id": "cres-adm-004",
+    "category": "Admissions & CIEAT",
+    "question": "What undergraduate and postgraduate programmes are offered at Crescent?",
+    "patterns": [
+      "programmes offered at crescent",
+      "courses available in crescent university",
+      "what degrees can i study at crescent",
+      "list of btech and mba courses",
+      "schools and departments at crescent"
+    ],
+    "keywords": ["programmes", "courses", "degrees", "btech", "mba", "law", "pharmacy", "architecture", "departments", "schools"],
+    "answer": "Crescent offers 50+ UG, PG, and Doctoral programmes across specialized schools:<ul><li><b>Engineering (B.Tech/M.Tech):</b> Computer Science (CSE), AI & Data Science, Cyber Security, IoT, Mechanical, Aerospace, Automobile, Civil, ECE, EEE, Biotechnology.</li><li><b>Architecture (CSA):</b> B.Arch (5-year COA approved) & M.Arch.</li><li><b>Business (CSB):</b> MBA (Finance, Marketing, HR, Business Analytics, Operations) & BBA.</li><li><b>Law (CSL):</b> B.A. LL.B (Hons.), B.B.A. LL.B (Hons.), and LL.M approved by BCI.</li><li><b>Pharmacy (CSP):</b> B.Pharm (PCI approved) and M.Pharm.</li><li><b>Computer Applications & Sciences:</b> BCA, MCA, B.Sc Computer Science, Data Science.</li><li><b>Life Sciences:</b> B.Sc & M.Sc Biotechnology, Microbiology.</li><li><b>Commerce & Humanities:</b> B.Com (General, Accounts & Finance), B.A. Public Policy, Islamic Studies.</li><li><b>Research:</b> Ph.D. programmes across all disciplines.</li></ul>",
+    "quick_links": [
+      {"label": "All Schools & Faculties", "url": "https://crescent.education/schools/"},
+      {"label": "Ph.D. Admissions", "url": "https://crescent.education/admission-to-ph-d/"}
+    ]
+  },
+  {
+    "id": "cres-adm-005",
+    "category": "Admissions & CIEAT",
+    "question": "Can international or SAARC students apply to Crescent?",
+    "patterns": [
+      "international student admission",
+      "can foreign students join crescent",
+      "saarc student fee and admission",
+      "nri quota admissions crescent"
+    ],
+    "keywords": ["international", "foreign", "saarc", "nri", "quota", "overseas", "global"],
+    "answer": "Yes! Crescent has a dedicated <b>International Students Division</b>:<ul><li>Students from SAARC countries, the Gulf/Middle East, Africa, and Southeast Asia study at Crescent.</li><li>For SAARC students, an all-inclusive tuition, amenities, and examination package of approx. <b>INR 2,50,000 per year</b> applies.</li><li>NRI and International hostel accommodation with AC rooms and international dining is provided.</li><li>Assistance with student visa endorsement, FRRO registration, and orientation is provided by the international office.</li></ul>",
+    "quick_links": [
+      {"label": "International Admissions", "url": "https://crescent.education/"}
+    ]
+  },
+  {
+    "id": "cres-fee-001",
+    "category": "Fees & Scholarships",
+    "question": "What is the fee structure for B.Tech and other courses at Crescent?",
+    "patterns": [
+      "crescent fee structure",
+      "what is the tuition fee for btech cse",
+      "how much does btech cost at crescent",
+      "crescent university college fees",
+      "annual fees for engineering mba law"
+    ],
+    "keywords": ["fee", "fees", "structure", "tuition", "cost", "btech", "mba", "per year", "annual"],
+    "answer": "Crescent follows a transparent, merit-linked fee structure:<ul><li><b>B.Tech (CSE, AI & Data Science, Cyber Security):</b> Approx. ₹1,50,000 to ₹2,20,000 per year (depending on 12th PCM merit slab).</li><li><b>B.Tech (ECE, Mechanical, Biotech, Civil, Aerospace):</b> Approx. ₹1,00,000 to ₹1,50,000 per year.</li><li><b>Crescent School of Business (MBA):</b> Approx. ₹2,00,000 to ₹2,50,000 per year.</li><li><b>Crescent School of Law (B.A./B.B.A. LL.B):</b> Approx. ₹1,50,000 to ₹1,80,000 per year.</li><li><b>Crescent School of Pharmacy (B.Pharm):</b> Approx. ₹1,40,000 to ₹1,75,000 per year.</li><li><b>Arts, Science & Commerce (BCA, B.Com, BBA):</b> Approx. ₹60,000 to ₹1,00,000 per year.</li></ul><i>Note: Fees are payable in 2 installments per year (semester-wise). Merit concessions apply based on 12th PCM marks.</i>",
+    "quick_links": [
+      {"label": "Detailed Fee Structure", "url": "https://crescent.education/"}
+    ]
+  },
+  {
+    "id": "cres-fee-002",
+    "category": "Fees & Scholarships",
+    "question": "What scholarships and fee waivers are available at Crescent?",
+    "patterns": [
+      "scholarships available at crescent",
+      "how to get fee waiver at crescent",
+      "crescent merit scholarship criteria",
+      "founder scholarship crescent",
+      "sports quota scholarship crescent",
+      "india in a classroom scholarship"
+    ],
+    "keywords": ["scholarship", "scholarships", "waiver", "concession", "merit", "founder", "aid", "sports quota", "discount"],
+    "answer": "Crescent provides extensive scholarship schemes worth crores annually:<ul><li><b>Merit Scholarships (B.Tech):</b> Students scoring <b>>90% marks in 12th PCM</b> receive up to 50%-100% tuition fee waiver; students with 80%-89% receive attractive fee concessions.</li><li><b>Founder's Merit Scholarship:</b> Awarded to top-ranking students in CIEAT and national board exams.</li><li><b>'India in a Classroom' Scholarship:</b> Tailored financial assistance covering up to 100% tuition for underprivileged, minority, and SC/ST students with meritorious records.</li><li><b>Sports Scholarships:</b> Up to 100% free education, accommodation, and food for athletes who represented state or national tournaments.</li><li><b>Alumni & Sibling Concession:</b> Special fee discount for siblings of current students and alumni ward.</li><li><b>BSA Research Fellowships:</b> JRF/SRF monthly stipends up to ₹25,000 for full-time Ph.D. scholars.</li></ul>",
+    "quick_links": [
+      {"label": "Scholarship Guidelines", "url": "https://crescent.education/"}
+    ]
+  },
+  {
+    "id": "cres-fee-003",
+    "category": "Fees & Scholarships",
+    "question": "Can I pay tuition fees in installments?",
+    "patterns": [
+      "can i pay fees in installments crescent",
+      "installment facility for crescent fee",
+      "crescent semester wise fee payment",
+      "partial fee payment crescent"
+    ],
+    "keywords": ["installment", "installments", "partial", "split", "semester wise", "payment"],
+    "answer": "Yes! Tuition fees at Crescent can be paid in <b>two installments per year</b> (at the commencement of the Odd and Even semesters). For families requiring educational loan support, the university provides bona fide certificates and assistance documents for all major nationalized and private banks.",
+    "quick_links": []
+  },
+  {
+    "id": "cres-place-001",
+    "category": "Placements & Career",
+    "question": "What are the placement statistics and top recruiting companies at Crescent?",
+    "patterns": [
+      "crescent placement statistics",
+      "top recruiters at crescent",
+      "highest salary package at crescent",
+      "average package at crescent",
+      "crescent university placements review",
+      "which companies visit crescent"
+    ],
+    "keywords": ["placement", "placements", "recruiters", "companies", "package", "salary", "lpa", "jobs", "hiring", "cgpc"],
+    "answer": "Crescent has an enviable placement record managed by the <b>Career Guidance and Placement Centre (CGPC)</b>:<ul><li><b>Placement Rate:</b> Consistently over <b>88%</b> of eligible graduates placed every year.</li><li><b>Highest Package:</b> Offers in super dream categories reaching up to <b>₹30 to ₹40+ LPA</b>.</li><li><b>Average Package:</b> Ranges between <b>₹4.5 LPA and ₹6.5 LPA</b> across engineering and management.</li><li><b>Top Recruiters:</b> Amazon, Microsoft, Zoho, Cognizant, Infosys, TCS, Wipro, L&T, IBM, Adobe, Hyundai, Bosch, Sony, TVS, HDFC Bank, Kaar Technologies, Capgemini, Virtusa, and Renault Nissan.</li><li><b>Offers:</b> More than 1,000+ placement offers generated every season with several students receiving multiple dream offers.</li></ul>",
+    "quick_links": [
+      {"label": "Placement Details & Reports", "url": "https://crescent.education/placement/"}
+    ]
+  },
+  {
+    "id": "cres-place-002",
+    "category": "Placements & Career",
+    "question": "How does Crescent train students for campus placements and internships?",
+    "patterns": [
+      "placement training at crescent",
+      "internship opportunities crescent",
+      "how does crescent prepare students for jobs",
+      "cgpc training programmes"
+    ],
+    "keywords": ["training", "internship", "internships", "soft skills", "cgpc", "career", "preparation", "aptitude"],
+    "answer": "Training at Crescent begins right from the early semesters through the <b>Career Guidance and Placement Centre (CGPC)</b>:<ul><li><b>Skill Development:</b> Mandatory corporate soft-skills, aptitude training, group discussion (GD) drills, and mock technical interviews.</li><li><b>Industry Certifications:</b> Tie-ups with IBM, AWS Academy, Apple iOS Development Lab, and NASSCOM for specialized technical credentials.</li><li><b>Summer Internships:</b> 8-to-12 week industry internships with stipends ranging from ₹15,000 to ₹50,000/month.</li><li><b>Foreign Internships:</b> Select students get opportunities for research internships in universities across the USA, UK, Germany, and Malaysia.</li></ul>",
+    "quick_links": [
+      {"label": "CGPC Placement Cell", "url": "https://crescent.education/placement/"}
+    ]
+  },
+  {
+    "id": "cres-host-001",
+    "category": "Hostel & Campus Life",
+    "question": "What hostel facilities and room types are available at Crescent?",
+    "patterns": [
+      "hostel facilities at crescent",
+      "kba mens hostel crescent",
+      "girls hostel crescent university",
+      "hostel room types ac non ac crescent",
+      "accommodation on crescent campus"
+    ],
+    "keywords": ["hostel", "accommodation", "dorm", "kba", "rooms", "ac", "non ac", "sharing", "stay", "girls hostel"],
+    "answer": "Crescent offers separate, secure on-campus residential hostels for boys and girls:<ul><li><b>KBA Men's Hostel & New Boys Hostel:</b> Multi-storey complexes featuring single, double, triple, and four-sharing rooms (both AC and Non-AC).</li><li><b>Girls' Hostel:</b> Dedicated high-security block with modern amenities, round-the-clock female wardens, and biometric security.</li><li><b>In-Room Amenities:</b> Bed, study table, ergonomic chair, cupboard, and power outlets.</li><li><b>Hostel Amenities:</b> High-speed Wi-Fi, 24/7 power backup, fully equipped gymnasium, laundry facility, recreation hall with TV, indoor sports, reading rooms, and solar water heating.</li></ul>",
+    "quick_links": [
+      {"label": "Hostel & Campus Facilities", "url": "https://crescent.education/"}
+    ]
+  },
+  {
+    "id": "cres-host-002",
+    "category": "Hostel & Campus Life",
+    "question": "What are the hostel and mess charges at Crescent?",
+    "patterns": [
+      "crescent hostel fee",
+      "hostel and mess charges crescent",
+      "how much does hostel cost per year crescent",
+      "mess food charges crescent"
+    ],
+    "keywords": ["hostel fee", "mess fee", "hostel rent", "food charges", "hostel cost", "annual hostel fee"],
+    "answer": "Annual Hostel and Mess Fees at Crescent:<ul><li><b>Non-AC Sharing Rooms:</b> Approximately <b>₹95,000 to ₹1,10,000 per year</b> (inclusive of boarding, lodging, and mess).</li><li><b>AC Sharing Rooms:</b> Approximately <b>₹1,30,000 to ₹1,55,000 per year</b> (including electricity and AC charges).</li><li><b>Amenities Fee:</b> A one-time refundable caution deposit of ₹5,000 is payable at admission.</li><li><b>Mess Food:</b> Nutritious, multi-cuisine South Indian and North Indian buffet food served 4 times a day (strictly Halal, hygienic, vegetarian and non-vegetarian menus).</li><li><b>International/NRI Students:</b> Premium air-conditioned rooms available ranging from $1,400 to $2,700 per year.</li></ul>",
+    "quick_links": []
+  },
+  {
+    "id": "cres-host-003",
+    "category": "Hostel & Campus Life",
+    "question": "What is the hostel curfew, in-time, and outpass policy at Crescent?",
+    "patterns": [
+      "hostel curfew timings crescent",
+      "what time is hostel in time crescent",
+      "crescent hostel outpass procedure",
+      "hostel rules and night outpass"
+    ],
+    "keywords": ["curfew", "in time", "outpass", "gate timing", "night out", "hostel rules", "permission", "leave"],
+    "answer": "Hostel curfew and outpass regulations:<ul><li><b>Hostel In-Time / Curfew:</b> Residents must return to hostel premises by <b>8:30 PM (Girls) / 9:00 PM (Boys)</b> on weekdays.</li><li><b>Day Outpass:</b> Can be applied for study, library, or local errands through the digital Student ERP / Hostel App.</li><li><b>Weekend / Night Outpass:</b> Requires digital parent approval via SMS/OTP or the Parent Portal at least 12 hours prior to departure.</li><li><b>Security:</b> 24/7 CCTV surveillance, biometric punch-in at hostel entry gates, and resident faculty wardens on duty.</li></ul>",
+    "quick_links": []
+  },
+  {
+    "id": "cres-host-004",
+    "category": "Hostel & Campus Life",
+    "question": "What student clubs, cultural fests, and sports activities exist at Crescent?",
+    "patterns": [
+      "student clubs at crescent",
+      "cultural fests crescent",
+      "sports facilities crescent vandalur",
+      "campus life and events crescent"
+    ],
+    "keywords": ["clubs", "cultural", "fest", "sports", "crescentia", "activities", "gym", "football", "cricket"],
+    "answer": "Campus life at Crescent is energetic and diverse:<ul><li><b>Cultural Fest:</b> <i>'CRESCENTIA'</i>, one of South India's largest inter-collegiate cultural extravaganzas attracting thousands of students.</li><li><b>Technical Clubs:</b> Crescent Coding Club, Robotics & Automation Club, Crescent Formula Racing SAE, AI Society, IoT Innovation Lab.</li><li><b>Sports Infrastructure:</b> FIFA-standard turf football ground, turf cricket stadium, 400m athletic track, synthetic basketball and tennis courts, and badminton courts.</li><li><b>Arts & Social Clubs:</b> Music & Arts Society, Crescent Literary Club, Rotaract Club, Youth Red Cross, and NSS.</li><li><b>Spiritual & Interfaith:</b> Beautiful campus mosque with designated prayer halls for daily prayers.</li></ul>",
+    "quick_links": []
+  },
+  {
+    "id": "cres-acad-001",
+    "category": "Academics & Accreditation",
+    "question": "What is the NAAC accreditation, NIRF ranking, and recognition of Crescent?",
+    "patterns": [
+      "is crescent naac accredited",
+      "crescent nirf ranking",
+      "what grade does crescent have in naac",
+      "is crescent degree valid ucg aicte",
+      "recognition and awards crescent"
+    ],
+    "keywords": ["naac", "nirf", "ranking", "accreditation", "ugc", "aicte", "nba", "recognition", "grade a+"],
+    "answer": "Crescent Institute of Science and Technology holds prestigious national and global recognitions:<ul><li><b>NAAC Accreditation:</b> Accredited with <b>A+ Grade</b> by the National Assessment and Accreditation Council.</li><li><b>UGC Deemed University:</b> Deemed-to-be-University under Section 3 of the UGC Act 1956.</li><li><b>NIRF Rankings:</b> Ranked among the top 100-150 engineering institutions and top 150 universities in India by MHRD/NIRF.</li><li><b>NBA Accredited:</b> All core undergraduate engineering programmes are accredited by the National Board of Accreditation (NBA) under the Tier-1 Washington Accord.</li><li><b>QS World & QS I-GAUGE:</b> Awarded Diamond rating by QS I-GAUGE and ranked in QS Asia rankings.</li><li><b>ARIIA & Innovation:</b> Top rank among private universities in the Atal Ranking of Institutions on Innovation Achievements (ARIIA).</li></ul>",
+    "quick_links": [
+      {"label": "Accreditations & NAAC", "url": "https://crescent.education/accreditation-ranking/accreditation/naac/"},
+      {"label": "About Crescent", "url": "https://crescent.education/about-us/"}
+    ]
+  },
+  {
+    "id": "cres-acad-002",
+    "category": "Academics & Accreditation",
+    "question": "What is the minimum attendance requirement at Crescent?",
+    "patterns": [
+      "minimum attendance required at crescent",
+      "crescent attendance rule",
+      "can i write exam with low attendance crescent",
+      "75 percent attendance crescent"
+    ],
+    "keywords": ["attendance", "present", "shortage", "absent", "75%", "criteria", "rules", "condonation"],
+    "answer": "At Crescent, a minimum of <b>75% attendance</b> in each registered course (lectures, tutorials, and practicals) is strictly required to be eligible for End-Semester Examinations.<br><br>Students with attendance between 65% and 74% due to medical emergencies or approved participation in sports/competitions may apply for condonation by submitting official medical and faculty approvals.",
+    "quick_links": []
+  },
+  {
+    "id": "cres-acad-003",
+    "category": "Academics & Accreditation",
+    "question": "How does the grading and CGPA evaluation system work at Crescent?",
+    "patterns": [
+      "crescent grading system",
+      "how is cgpa calculated at crescent",
+      "what is 10 point scale at crescent",
+      "passing marks at crescent"
+    ],
+    "keywords": ["grading", "cgpa", "gpa", "credit", "marks", "grade", "scale", "evaluation", "sgpa"],
+    "answer": "Crescent adopts the Choice Based Credit System (CBCS) on a 10-point scale:<ul><li><b>O (Outstanding):</b> 10 points (90-100%)</li><li><b>A+ (Excellent):</b> 9 points (80-89%)</li><li><b>A (Very Good):</b> 8 points (70-79%)</li><li><b>B+ (Good):</b> 7 points (60-69%)</li><li><b>B (Above Average):</b> 6 points (55-59%)</li><li><b>C (Pass):</b> 5 points (50-54%)</li><li><b>U (Re-appear / Fail):</b> 0 points (<50%)</li></ul>Cumulative Grade Point Average (CGPA) is computed as the weighted average of grade points across all completed semesters.",
+    "quick_links": []
+  },
+  {
+    "id": "cres-fac-001",
+    "category": "Facilities & Innovation",
+    "question": "What is CIIC (Crescent Innovation and Incubation Council)?",
+    "patterns": [
+      "what is ciic",
+      "crescent innovation and incubation council",
+      "startup incubator at crescent",
+      "entrepreneurship support crescent",
+      "funding for startups at crescent"
+    ],
+    "keywords": ["ciic", "incubation", "incubator", "startup", "innovation", "entrepreneurship", "bionest", "dst", "funding"],
+    "answer": "<b>CIIC (Crescent Innovation & Incubation Council)</b> is a premier Section-8 non-profit startup incubator located within Crescent campus:<ul><li>Recognized and funded by <b>DST, BIRAC-BIONEST, MSME, and Startup India</b>.</li><li>Supports 100+ innovative startups in Agri-tech, Med-tech, AI, Life Sciences, Clean-tech, and Mobility.</li><li>Provides seed funding up to ₹50 Lakhs per startup, co-working space, patent filing assistance, and mentorship.</li><li>Students with startup ideas can incubate while studying and earn academic credits for entrepreneurship.</li></ul>",
+    "quick_links": [
+      {"label": "Research & Innovation", "url": "https://crescent.education/research-about-us/"}
+    ]
+  },
+  {
+    "id": "cres-fac-002",
+    "category": "Facilities & Innovation",
+    "question": "What are the Central Library facilities and timings at Crescent?",
+    "patterns": [
+      "crescent central library timings",
+      "how many books in crescent library",
+      "is library open on sundays crescent",
+      "digital library access crescent"
+    ],
+    "keywords": ["library", "books", "reading room", "hours", "timings", "ieee", "delnet", "journals"],
+    "answer": "The Central Library is housed in an independent, air-conditioned facility:<ul><li><b>Timings:</b> 8:00 AM to 8:00 PM (Monday - Saturday); 9:00 AM to 2:00 PM on Sundays. Extended 24/7 hours during final examinations.</li><li><b>Collection:</b> Over 90,000 printed volumes, 17,000+ reference titles, and thousands of national and international journals.</li><li><b>Digital Library:</b> 50+ multimedia workstations with high-speed internet, IEEE Xplore, Springer, ScienceDirect, ASCE, ASME, and DELNET databases accessible remotely via remote login.</li><li>Spacious discussion pods, reprographic (photocopying) section, and audiovisual halls.</li></ul>",
+    "quick_links": []
+  },
+  {
+    "id": "cres-fac-003",
+    "category": "Facilities & Innovation",
+    "question": "Is college bus transport available for day scholars at Crescent?",
+    "patterns": [
+      "crescent bus routes and transport fee",
+      "is bus facility available at crescent",
+      "bus pickup locations for crescent college",
+      "college bus timings crescent vandalur"
+    ],
+    "keywords": ["transport", "bus", "transportation", "routes", "commute", "pickup", "day scholar", "vandalur"],
+    "answer": "Yes! Crescent operates a massive fleet of <b>50+ AC and Non-AC luxury buses</b> covering Chennai, Kanchipuram, and Chengalpattu:<ul><li><b>Coverage:</b> Routes cover Central, Egmore, Anna Nagar, T. Nagar, Adyar, Velachery, Tambaram, Chromepet, Pallavaram, Porur, Poonamallee, Chengalpattu, and Kanchipuram.</li><li><b>Schedule:</b> Buses arrive at the Vandalur campus by 8:40 AM and depart at 4:30 PM & 6:00 PM (for sports/library students).</li><li><b>Annual Transport Fee:</b> Ranges between ₹40,000 and ₹50,000 per year depending on route distance.</li></ul>",
+    "quick_links": []
+  },
+  {
+    "id": "cres-fac-004",
+    "category": "Facilities & Innovation",
+    "question": "What medical, healthcare, and emergency facilities exist on campus?",
+    "patterns": [
+      "medical center at crescent",
+      "is there a doctor or hospital on campus",
+      "emergency health facility crescent vandalur",
+      "ambulance service crescent"
+    ],
+    "keywords": ["medical", "doctor", "health center", "hospital", "clinic", "emergency", "ambulance", "dispensary"],
+    "answer": "Crescent has an on-campus <b>Health Care Centre</b>:<ul><li>Resident full-time Medical Officer and nursing staff available 24/7.</li><li>In-house pharmacy with essential medicines, nebulizers, ECG, and observation beds.</li><li>2 dedicated campus ambulances stationed round-the-clock for immediate transfer to nearby multi-speciality hospitals (Tagore Medical Hospital / Chettinad Health City).</li><li>All enrolled students are covered under the university Group Medical Insurance scheme.</li></ul>",
+    "quick_links": []
+  },
+  {
+    "id": "cres-cont-001",
+    "category": "Contact & Location",
+    "question": "How do I contact Crescent Admissions Office and where is the campus located?",
+    "patterns": [
+      "crescent admissions contact number and email",
+      "crescent college phone number",
+      "where is crescent located",
+      "crescent campus address",
+      "admissions office helpline crescent"
+    ],
+    "keywords": ["contact", "phone", "email", "address", "helpline", "location", "vandalur", "registrar", "office"],
+    "answer": "You can reach Crescent University through official channels:<ul><li><b>Admissions Hotline / WhatsApp:</b> <a href='tel:+919543277888'>+91 95432 77888</a> / <a href='tel:+919499001725'>+91 94990 01725</a></li><li><b>General Campus EPABX:</b> +91 44 2275 1347 / 2275 9200 / 2275 0362</li><li><b>Admissions Email:</b> <a href='mailto:admissions@crescent.education'>admissions@crescent.education</a></li><li><b>Registrar Email:</b> <a href='mailto:registrar@crescent.education'>registrar@crescent.education</a></li><li><b>Official Website:</b> <a href='https://crescent.education/' target='_blank'>https://crescent.education/</a></li><li><b>Campus Address:</b> B.S. Abdur Rahman Crescent Institute of Science & Technology, Seethakathi Estate, GST Road, Vandalur, Chennai – 600048, Tamil Nadu, India. (Opposite Arignar Anna Zoological Park / Vandalur Zoo, near Vandalur Railway Station).</li></ul>",
+    "quick_links": [
+      {"label": "Contact Us Page", "url": "https://crescent.education/contact-us/"},
+      {"label": "Visit Crescent Website", "url": "https://crescent.education/"}
+    ]
+  },
+  {
+    "id": "cres-cont-002",
+    "category": "Contact & Location",
+    "question": "What is the Anti-Ragging and Student Grievance Helpline at Crescent?",
+    "patterns": [
+      "anti ragging policy at crescent",
+      "what to do if ragging happens crescent",
+      "crescent anti ragging committee contact",
+      "student grievance redressal crescent"
+    ],
+    "keywords": ["ragging", "anti-ragging", "complaint", "safety", "harassment", "squad", "helpline", "grievance"],
+    "answer": "Crescent maintains a strict <b>Zero Tolerance Policy</b> against ragging, harassment, and indiscipline in compliance with UGC norms:<ul><li><b>24/7 Anti-Ragging Toll-Free Helpline:</b> 1800-180-5522</li><li><b>Crescent Anti-Ragging Committee Head:</b> Dean (Student Affairs) | +91 44 2275 1347 (Ext. 112)</li><li><b>Email:</b> <a href='mailto:antiragging@crescent.education'>antiragging@crescent.education</a></li><li>CCTV monitored campus with anti-ragging flying squads patrolling hostels, cafeterias, and bus boarding points.</li></ul>",
+    "quick_links": [
+      {"label": "Student Grievance & Feedback", "url": "https://crescent.education/students-feedback-2/"}
+    ]
+  }
+]
